@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ikflix/static/css/main.a13d572d.css",
-    "main.js": "/ikflix/static/js/main.a10f8ef5.js",
-    "static/js/787.005cd59c.chunk.js": "/ikflix/static/js/787.005cd59c.chunk.js",
-    "index.html": "/ikflix/index.html",
-    "main.a13d572d.css.map": "/ikflix/static/css/main.a13d572d.css.map",
-    "main.a10f8ef5.js.map": "/ikflix/static/js/main.a10f8ef5.js.map",
-    "787.005cd59c.chunk.js.map": "/ikflix/static/js/787.005cd59c.chunk.js.map"
+    "main.css": "/ikflix.github.io/static/css/main.a13d572d.css",
+    "main.js": "/ikflix.github.io/static/js/main.4a8bae5b.js",
+    "static/js/787.005cd59c.chunk.js": "/ikflix.github.io/static/js/787.005cd59c.chunk.js",
+    "index.html": "/ikflix.github.io/index.html",
+    "main.a13d572d.css.map": "/ikflix.github.io/static/css/main.a13d572d.css.map",
+    "main.4a8bae5b.js.map": "/ikflix.github.io/static/js/main.4a8bae5b.js.map",
+    "787.005cd59c.chunk.js.map": "/ikflix.github.io/static/js/787.005cd59c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a13d572d.css",
-    "static/js/main.a10f8ef5.js"
+    "static/js/main.4a8bae5b.js"
   ]
 }
